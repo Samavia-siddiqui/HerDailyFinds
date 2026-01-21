@@ -36,7 +36,7 @@ header .container {
 
 .logo {
     font-size: 1.5rem;
-    color: #d4a574;
+    color:   #f16185;
 }
 
 .nav-list {
@@ -52,7 +52,7 @@ header .container {
 }
 
 .nav-list a:hover {
-    color: #d4a574;
+    color:   #f16185;
 }
 
 .hamburger {
@@ -65,7 +65,7 @@ header .container {
 
 /* Hero */
 .hero {
-    background-color: #e8c5a5;
+    background-color:  #f16185;
     color: #fff;
     text-align: center;
     padding: 4rem 20px;
@@ -88,7 +88,7 @@ header .container {
 .featured-products h2 {
     text-align: center;
     margin-bottom: 2rem;
-    color: #d4a574;
+    color:    #f16185;
 }
 
 .product-grid {
@@ -121,7 +121,7 @@ header .container {
 }
 
 .btn {
-    background-color: #d4a574;
+    background-color:  #f16185;
     color: #fff;
     border: none;
     padding: 0.75rem 1.5rem;
@@ -133,7 +133,7 @@ header .container {
 }
 
 .btn:hover {
-    background-color: #b8945f;
+    background-color:  #cf115a;  
 }
 
 /* Blog Preview */
@@ -145,7 +145,7 @@ header .container {
 .blog-preview h2 {
     text-align: center;
     margin-bottom: 2rem;
-    color: #d4a574;
+    color:   #f16185;
 }
 
 .featured-article {
@@ -180,7 +180,7 @@ header .container {
 .blog-article h1 {
     text-align: center;
     margin-bottom: 2rem;
-    color: #d4a574;
+    color:   #f16185;
 }
 
 .blog-article img {
@@ -194,7 +194,7 @@ header .container {
 
 .blog-article h2, .blog-article h3 {
     margin-top: 2rem;
-    color: #d4a574;
+    color:  #f16185;
 }
 
 .blog-article ul {
@@ -211,7 +211,7 @@ header .container {
 .about h1, .contact h1, .disclosure h1, .privacy h1 {
     text-align: center;
     margin-bottom: 2rem;
-    color: #d4a574;
+    color:   #f16185;
 }
 
 .contact form {

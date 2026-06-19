@@ -1,16 +1,70 @@
-# React + Vite
+# HerDailyFinds
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lifestyle blog created for women who love simple, elegant style.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+HerDailyFinds is your go-to destination for everyday beauty essentials and stylish bags that fit real life. We curate carefully selected products inspired by Pinterest trends and practical needs. Each recommendation balances quality, style, and value—because beautiful doesn't have to be complicated.
 
-## React Compiler
+## What We Offer
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **Beauty Essentials**: Everyday products that enhance your natural beauty
+- **Stylish Bags**: Functional yet fashionable bags for every occasion
+- **Curated Collections**: Handpicked items inspired by the latest trends
+- **Practical Style**: Products that work for real life, not just Instagram
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive web design for seamless browsing on all devices
+- Curated product recommendations with detailed descriptions
+- Easy-to-navigate interface
+- Beauty and lifestyle inspiration
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Samavia-siddiqui/HerDailyFinds.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd HerDailyFinds
+   ```
+
+3. Open `index.html` in your web browser to view the blog
+
+## Project Structure
+
+```
+HerDailyFinds/
+├── index.html
+├── css/
+├── js/
+└── images/
+```
+
+## Contributing
+
+We'd love to hear your feedback and suggestions! Feel free to:
+- Report issues
+- Suggest new product categories
+- Share styling ideas
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Contact
+
+For questions or collaborations, feel free to reach out!
+
+---
+
+**HerDailyFinds** - Where elegance meets everyday practicality ✨
